@@ -1,0 +1,6 @@
+{
+  "name": "O-FIVE — One Source, Five Communication Products",
+  "description": "Asisten komunikasi kebijakan publik Kemenko Polkam untuk mengubah satu dokumen kebijakan menjadi lima produk komunikasi strategis: Siaran Pers, Instagram, Threads, TikTok, dan Berita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
